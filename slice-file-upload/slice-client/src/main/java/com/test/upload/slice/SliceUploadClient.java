@@ -88,7 +88,7 @@ public class SliceUploadClient {
 //				String path = "d:\\downloads\\100913505181_0手把手教你学习51单片机.docx";
 //				String path = "d:\\downloads\\20190911-语音误识别.MOV";
 //				String path = "d:\\downloads\\国六车接入详细设计文档 - 副本.docx";
-		String path = "d:/downloads/Report.xls";
+		String path = "d:/downloads/swagger2-security-demo.zip";
 		File file = new File(path);
 		String currentMD5 = MD5.getFileMD5String(file);
 		long currentLastModified = file.lastModified();

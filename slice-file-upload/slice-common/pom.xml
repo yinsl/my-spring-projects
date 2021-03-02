@@ -45,14 +45,4 @@
 			<artifactId>httpcore</artifactId>
 		</dependency>
 	</dependencies>
-	<build>
-		<finalName>slice-common</finalName>
-		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-		</plugins>
-		<defaultGoal>compile</defaultGoal>
-	</build>
 </project>

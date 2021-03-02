@@ -10,3 +10,8 @@
 ### TempFileTask：  
 1.定时对上传完毕的分片文件执行合并操作  
 2.定时对超出存储时间的临时文件执行清理操作  
+
+https://www.cnblogs.com/Marydon20170307/p/13847588.html  
+https://www.cnblogs.com/codhome/p/13621169.html  
+https://blog.csdn.net/weixin_30872337/article/details/97418485  
+http://www.blogjava.net/devin/archive/2010/07/20/326618.html?opt=admin  
